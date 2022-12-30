@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="crazyrandomthings"
+version="1.1.1"
+displayName="CrazyRandomThings"
+credits="A mod to play around"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="ChesterTheCat"
+description='''
+sus
+'''
+
+[[dependencies.crazyrandomthings]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.crazyrandomthings]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36.2.26]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

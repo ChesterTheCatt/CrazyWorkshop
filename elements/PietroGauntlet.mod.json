@@ -1,0 +1,31 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "banana",
+    "customModelName": "manopla:default",
+    "name": "Manopla do Pietro",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:BananaTab"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 13.0,
+    "attackSpeed": 1.5,
+    "enchantability": 15,
+    "damageVsEntity": 13.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.GOLD_INGOT"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

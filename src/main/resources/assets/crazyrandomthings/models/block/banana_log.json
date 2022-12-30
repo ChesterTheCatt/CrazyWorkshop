@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "crazyrandomthings:blocks/oak_log_banana_top",
+    "up": "crazyrandomthings:blocks/oak_log_banana_top",
+    "north": "crazyrandomthings:blocks/oak_log_banana",
+    "east": "crazyrandomthings:blocks/oak_log_banana",
+    "south": "crazyrandomthings:blocks/oak_log_banana",
+    "west": "crazyrandomthings:blocks/oak_log_banana",
+    "particle": "crazyrandomthings:blocks/oak_log_banana_top"
+  }
+}

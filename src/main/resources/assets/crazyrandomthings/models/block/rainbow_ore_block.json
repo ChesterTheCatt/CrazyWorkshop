@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "crazyrandomthings:blocks/texturarainbowminerio",
+    "up": "crazyrandomthings:blocks/texturarainbowminerio",
+    "north": "crazyrandomthings:blocks/texturarainbowminerio",
+    "east": "crazyrandomthings:blocks/texturarainbowminerio",
+    "south": "crazyrandomthings:blocks/texturarainbowminerio",
+    "west": "crazyrandomthings:blocks/texturarainbowminerio",
+    "particle": "crazyrandomthings:blocks/texturarainbowminerio"
+  }
+}

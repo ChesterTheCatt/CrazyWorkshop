@@ -1,0 +1,37 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rainbow_picareta",
+    "customModelName": "Normal",
+    "name": "Rainbow Pickaxe",
+    "specialInfo": [
+      "Rainbow Power",
+      "Destroy 3x3x3 blocks!"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:BananaTab"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 1.5,
+    "enchantability": 2,
+    "damageVsEntity": 2.5,
+    "usageCount": 470,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:RainbowIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "RainbowPickaxeBlockDestroyedWithTool"
+    }
+  }
+}

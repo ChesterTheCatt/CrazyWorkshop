@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "1": {
+      "item": "crazyrandomthings:obsidian_shard"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    },
+    "3": {
+      "item": "crazyrandomthings:obsidian_shard"
+    },
+    "4": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "5": {
+      "item": "crazyrandomthings:obsidian_shard"
+    },
+    "6": {
+      "item": "minecraft:diamond"
+    },
+    "7": {
+      "item": "crazyrandomthings:obsidian_shard"
+    },
+    "8": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "crazyrandomthings:mini_portal",
+    "count": 1
+  }
+}

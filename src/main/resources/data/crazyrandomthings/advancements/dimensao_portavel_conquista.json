@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "crazyrandomthings:mini_portal"
+    },
+    "title": {
+      "translate": "advancements.dimensao_portavel_conquista.title"
+    },
+    "description": {
+      "translate": "advancements.dimensao_portavel_conquista.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dimensao_portavel_conquista": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 6
+  },
+  "parent": "minecraft:story/form_obsidian"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "crazyrandomthings:banana"
+    },
+    "1": {
+      "item": "crazyrandomthings:banana"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "crazyrandomthings:banana_sword",
+    "count": 1
+  }
+}

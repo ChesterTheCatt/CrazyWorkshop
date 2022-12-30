@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "crazyrandomthings:blocks/bananabloco",
+    "up": "crazyrandomthings:blocks/bananabloco",
+    "north": "crazyrandomthings:blocks/bananabloco",
+    "east": "crazyrandomthings:blocks/bananabloco",
+    "south": "crazyrandomthings:blocks/bananabloco",
+    "west": "crazyrandomthings:blocks/bananabloco",
+    "particle": "crazyrandomthings:blocks/bananabloco"
+  }
+}

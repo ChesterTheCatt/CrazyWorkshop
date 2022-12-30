@@ -1,0 +1,7 @@
+{
+  "parent": "crazyrandomthings:custom/manopla",
+  "textures": {
+    "0": "crazyrandomthings:blocks/manopla",
+    "particle": "crazyrandomthings:items/banana"
+  }
+}

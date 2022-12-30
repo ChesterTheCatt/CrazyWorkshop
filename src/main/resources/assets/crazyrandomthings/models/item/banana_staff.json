@@ -1,0 +1,7 @@
+{
+  "parent": "crazyrandomthings:custom/bananastaff",
+  "textures": {
+    "0": "crazyrandomthings:blocks/texturebananastaff",
+    "particle": "crazyrandomthings:items/banana"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_fv": 28,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Banana Power",
+    "type": "WEAPON",
+    "rarity": "UNCOMMON",
+    "minLevel": 1,
+    "maxLevel": 3,
+    "damageModifier": 2,
+    "compatibleEnchantments": [],
+    "compatibleItems": [
+      {
+        "value": "CUSTOM:BananaSword"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}

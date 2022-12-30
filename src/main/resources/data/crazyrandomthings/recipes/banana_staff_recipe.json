@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "crazyrandomthings:banana"
+    },
+    "2": {
+      "item": "crazyrandomthings:banana"
+    },
+    "4": {
+      "item": "crazyrandomthings:diamond_stick"
+    },
+    "6": {
+      "item": "crazyrandomthings:obsidian_shard"
+    },
+    "7": {
+      "item": "minecraft:oak_log"
+    },
+    "8": {
+      "item": "crazyrandomthings:obsidian_shard"
+    }
+  },
+  "result": {
+    "item": "crazyrandomthings:banana_staff",
+    "count": 1
+  }
+}

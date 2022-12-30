@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "crazyrandomthings:banana"
+    },
+    "1": {
+      "item": "crazyrandomthings:banana"
+    },
+    "2": {
+      "item": "crazyrandomthings:banana"
+    },
+    "3": {
+      "item": "crazyrandomthings:banana"
+    },
+    "5": {
+      "item": "crazyrandomthings:banana"
+    }
+  },
+  "result": {
+    "item": "crazyrandomthings:banana_set_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "crazyrandomthings:rainbow_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:obsidian"
+  },
+  "result": {
+    "item": "crazyrandomthings:obsidian_shard"
+  }
+}

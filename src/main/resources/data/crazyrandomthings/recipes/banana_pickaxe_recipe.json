@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "crazyrandomthings:banana"
+    },
+    "1": {
+      "item": "crazyrandomthings:banana"
+    },
+    "2": {
+      "item": "crazyrandomthings:banana"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "crazyrandomthings:banana_pickaxe",
+    "count": 1
+  }
+}

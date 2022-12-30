@@ -1,0 +1,66 @@
+{
+  "polish_cow": {
+    "category": "music",
+    "subtitle": "subtitles.polish_cow",
+    "sounds": [
+      {
+        "name": "crazyrandomthings:polishcow8bit",
+        "stream": true
+      }
+    ]
+  },
+  "stevehurt": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "crazyrandomthings:stevehurt",
+        "stream": false
+      }
+    ]
+  },
+  "chestersounds": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "crazyrandomthings:freakin_on_a_friday_night_yeah",
+        "stream": false
+      },
+      {
+        "name": "crazyrandomthings:hey_stinky",
+        "stream": false
+      },
+      {
+        "name": "crazyrandomthings:tikyexpurgation",
+        "stream": false
+      },
+      {
+        "name": "crazyrandomthings:wassup",
+        "stream": false
+      },
+      {
+        "name": "crazyrandomthings:lesssgooo",
+        "stream": false
+      }
+    ]
+  },
+  "kazotsky_kick": {
+    "category": "music",
+    "subtitle": "subtitles.kazotsky_kick",
+    "sounds": [
+      {
+        "name": "crazyrandomthings:kazotsky_kick_8_bit_-_cell_phone_tone",
+        "stream": true
+      }
+    ]
+  },
+  "sentryshoot": {
+    "category": "player",
+    "subtitle": "subtitles.sentryshoot",
+    "sounds": [
+      {
+        "name": "crazyrandomthings:tf2_sentry_firing_sound-youtubeconvert.cc",
+        "stream": false
+      }
+    ]
+  }
+}

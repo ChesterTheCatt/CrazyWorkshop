@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "crazyrandomthings:gustavo_f"
+    },
+    "title": {
+      "translate": "advancements.gus_f.title"
+    },
+    "description": {
+      "translate": "advancements.gus_f.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "gus_f": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "crazyrandomthings:gustavo_f",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 40
+  },
+  "parent": "crazyrandomthings:pietro_gauntlet_conquista"
+}

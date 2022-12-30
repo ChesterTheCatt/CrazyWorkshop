@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "polishcowdvd",
+    "name": "Polish Cow 8bit - PixelDude",
+    "description": "Vacas que dançam",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:polish_cow"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

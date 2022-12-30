@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "crazyrandomthings:banana"
+    },
+    "2": {
+      "item": "crazyrandomthings:banana"
+    },
+    "3": {
+      "item": "crazyrandomthings:banana"
+    },
+    "4": {
+      "item": "crazyrandomthings:banana"
+    },
+    "5": {
+      "item": "crazyrandomthings:banana"
+    },
+    "6": {
+      "item": "crazyrandomthings:banana"
+    },
+    "7": {
+      "item": "crazyrandomthings:banana"
+    },
+    "8": {
+      "item": "crazyrandomthings:banana"
+    }
+  },
+  "result": {
+    "item": "crazyrandomthings:banana_set_chestplate",
+    "count": 1
+  }
+}

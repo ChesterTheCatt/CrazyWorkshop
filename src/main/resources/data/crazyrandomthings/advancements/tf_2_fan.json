@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "crazyrandomthings:tf_2_music"
+    },
+    "title": {
+      "translate": "advancements.tf_2_fan.title"
+    },
+    "description": {
+      "translate": "advancements.tf_2_fan.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tf_2_fan": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "crazyrandomthings:tf_2_music"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "crazyrandomthings:dancing_with_cows"
+}

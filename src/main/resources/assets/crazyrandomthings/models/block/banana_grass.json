@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "crazyrandomthings:blocks/bananabloco",
+    "top": "crazyrandomthings:blocks/topobananabloco",
+    "side": "crazyrandomthings:blocks/ladosgrama",
+    "overlay": "crazyrandomthings:blocks/ladosgrama",
+    "particle": "crazyrandomthings:blocks/bananabloco"
+  }
+}

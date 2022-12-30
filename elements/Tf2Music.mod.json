@@ -1,0 +1,20 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "tf2disc",
+    "name": "Kazotsky Kick - Dylan Beshka",
+    "description": "TF2 cool song",
+    "creativeTab": {
+      "value": "CUSTOM:BananaTab"
+    },
+    "music": {
+      "value": "CUSTOM:kazotsky_kick"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "onRightClickedOnBlock": {
+      "name": "Tf2MusicRightClickedOnBlock"
+    }
+  }
+}
